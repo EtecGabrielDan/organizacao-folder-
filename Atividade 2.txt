@@ -1,0 +1,8 @@
+pwd (ver onde estou)
+cd Desktop/
+ls (para listar os arquivos da pasta)
+cd aula-terminal/
+ls
+cd execicios/
+touch atividade1.txt atividade2.txt atividade3.txt
+ls
