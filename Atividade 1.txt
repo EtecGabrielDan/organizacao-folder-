@@ -1,0 +1,6 @@
+pwd (para saber onde estou operando)
+cd Desktop/ (movendo minha operação pra o diretório desejado)
+mkdir aula-terminal (criando uma nova pasta)
+cd aula-terminal/ (movendo para operar na nova pasta)
+mkdir projetos exercícios anotações (criando 3 novas pastas)
+ls (listando as pastas, conferindo se houve erro ou não)
